@@ -1,0 +1,7 @@
+{
+	"Title":"Courses",
+	"Menu": [
+		{ "Name":"Pirita test",  "Url":"https://ristik.github.io/metsapeatus/pirta.json" },
+		{ "Name":"More Courses", "Url":"https://www.landnavapp.com/samples/Menu-2.json"  }
+	]
+}
